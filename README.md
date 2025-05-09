@@ -50,6 +50,26 @@ Este proyecto investiga las correlaciones entre los hábitos de vida de estudian
    - Análisis de componentes principales
    - Modelos de regresión múltiple
 
+## 📊 Resultados
+
+### Principales Descubrimientos
+1. **Hábitos de Estudio**
+   - Los estudiantes que dedican más de 4 horas diarias al estudio muestran un 25% mejor rendimiento
+   - La consistencia en el horario de estudio tiene más impacto que las horas totales
+
+2. **Factores Digitales**
+   - El uso excesivo de redes sociales (>3h/día) correlaciona negativamente con el rendimiento
+   - Los estudiantes que utilizan herramientas digitales de estudio mejoran un 15% sus notas
+
+3. **Bienestar**
+   - 7-8 horas de sueño se asocian con mejores calificaciones
+   - La actividad física regular muestra una correlación positiva moderada
+
+### Recomendaciones
+- Implementar programas de gestión del tiempo
+- Fomentar el uso responsable de tecnología
+- Promover hábitos de vida saludables
+
 ## 📈 Hallazgos Clave
 
 | Factor | Impacto | Correlación |
@@ -103,4 +123,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 Desarrollado por [Natarcos](https://github.com/Natarcos)
 
 ---
-*Última actualización: 2024*
+*Última actualización: 2025*
